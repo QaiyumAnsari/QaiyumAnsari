@@ -2,10 +2,6 @@
 <h1 align="center">Hi ??, I'm Qaiyum Ansari</h1>
 <h3 align="center">"passionate B.Tech CSE Student|Future Full Stack Web Devloper |Focused on MERN Stack & Real-World Projects"</h3>
 
-<img align="right" alt="coding" width="400" src="<h1 align="center">Hi ??, I'm Qaiyum Ansari</h1>
-<h3 align="center">"passionate B.Tech CSE Student|Future Full Stack Web Devloper |Focused on MERN Stack & Real-World Projects"</h3>
-
-<img align="right" alt="coding" width="400" src="">
 
 
 
